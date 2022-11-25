@@ -1,0 +1,115 @@
+#css
+nav {
+    margin-left: 30%;
+    width: 40%;
+    background-color: rgb(50, 109, 132);
+}
+
+.nav-in {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.box {
+    background-color: black;
+    width: 40px;
+    height: 30px;
+}
+
+
+.n-p {
+    display: flex;
+}
+
+.n-circle {
+    background-color: black;
+    width: 40px;
+    height: 30px;
+    border-radius: 40px;
+}
+
+.gray {
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.box2 {
+    width: 30%;
+    height: 80px;
+    background-color: blue
+}
+
+.circle {
+
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.third {
+    background-color: blue;
+}
+
+.row {
+    display: flex;
+
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.box{
+    height: 200px;
+    width: 15%;
+    background: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.boxes {
+    height: 200px;
+    width: 15%;
+    background: rgb(126, 193, 220);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+
+}
+
+.boxes:hover {
+    background: white;
+}
+
+footer {
+    background-color: gray;
+
+    align-items: center;
+
+}
+
+.fp {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.infoot {
+    background-color: blue;
+    width: 80%;
+    height: 200px;
+
+    margin-left: 10%;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    color: white;
+}
+
+p {
+    margin-top: 80px;
+}
